@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "350298317573",
+    "project_id": "nastasia-deli",
+    "storage_bucket": "nastasia-deli.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350298317573:android:6c1bce41876d26d5434d6c",
+        "android_client_info": {
+          "package_name": "pro.natalee.nastasiadeli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNuJu25vGCoem47OqnN25eAIGiVwEg7Rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
